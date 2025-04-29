@@ -1,0 +1,7 @@
+.map-container {
+    height: 300px; /* Set a fixed height for the map */
+    width: 100%;   /* Ensure the map takes up 100% of the parent container's width */
+    max-width: 800px; /* Optionally limit the maximum width */
+    margin-top: 1rem;
+  }
+  
