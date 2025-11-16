@@ -108,8 +108,8 @@ The AI enhances user experience by offering smart suggestions and real-time supp
 ### 🏠 Home Page
 ![Home Page](https://github.com/shahzadjutt123/Final_Year_Food_Ordering_Project/blob/main/Home%20Page.png?raw=true)
 
-### 🔐 Login Page
-![Login Page](https://github.com/shahzadjutt123/Final_Year_Food_Ordering_Project/blob/main/Admin%20page.png?raw=true)
+### 🔐 Admin Page
+![Admin Page](https://github.com/shahzadjutt123/Final_Year_Food_Ordering_Project/blob/main/Admin%20page.png?raw=true)
 
 ### 🍔 Menu Page
 ![Home menu](https://github.com/shahzadjutt123/Final_Year_Food_Ordering_Project/blob/main/Home%20menu.png?raw=true)
