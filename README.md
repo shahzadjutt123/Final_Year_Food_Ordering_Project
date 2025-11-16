@@ -103,3 +103,14 @@ The AI enhances user experience by offering smart suggestions and real-time supp
 </p>
 
 </div>
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### 🔐 Login Page
+![Login Page](./screenshots/login.png)
+
+### 🍔 Menu Page
+![Home menu](https://github.com/shahzadjutt123/Final_Year_Food_Ordering_Project/blob/main/Home%20menu.png?raw=true)
+
